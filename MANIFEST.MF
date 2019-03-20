@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: exportWar
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sincrono
+Implementation-Vendor-Id: sincroGroup
+Spring-Boot-Version: 2.1.3.RELEASE
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.sincrono.main.ExportWarApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/exportWar
+
